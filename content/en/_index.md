@@ -10,7 +10,7 @@ landing:
   title:
     - Z Themes
   text:
-    - This is Hugo Z Themes documentation site
+    - This is
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
