@@ -16,7 +16,7 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: HUGO THEME ZDOC
+      text: 
       color: primary
   # backgroundImage: 
   #   src: images/landscape.jpg
